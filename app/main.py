@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from app.routers import sales
+from app.routers import sales, analytics
 
 app = FastAPI(
     title="Sales Analytics API",
@@ -8,6 +8,7 @@ app = FastAPI(
 )
 
 app.include_router(sales.router)
+app.include_router(analytics.router)
 
 @app.get("/")
 def root():
