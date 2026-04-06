@@ -61,6 +61,7 @@ The data model and business logic were designed based on how real CRM systems (l
 
 ## Project Structure
 
+```
 sales-analytics-api/
 ├── app/
 │   ├── main.py         # App entrypoint and middleware
@@ -75,6 +76,7 @@ sales-analytics-api/
 ├── docker-compose.yml
 ├── Dockerfile
 └── requirements.txt
+```
 
 ---
 
