@@ -4,8 +4,8 @@ A backend application for managing and analyzing sales data, simulating a real-w
 
 Built with Python, FastAPI, PostgreSQL, and Pandas — featuring a live dashboard frontend that consumes the API in real time.
 
-🔗 **Live Demo:** _coming soon_  
-📊 **Dashboard:** _coming soon_
+🔗 **Live Demo:** https://sales-analytics-api-3zfp.onrender.com/docs
+📊 **Dashboard:** https://guileless-capybara-4e48ba.netlify.app
 
 ---
 
