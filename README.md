@@ -32,6 +32,7 @@ The data model and business logic were designed based on how real CRM systems (l
 - Revenue breakdown by product category
 - Top customers by revenue
 - Analytical insights powered by Pandas: average ticket, top product, top category
+- Export sales report to Excel with multiple sheets (raw data, by category, top customers, insights)
 
 **Infrastructure**
 - Dockerized environment — API and database start with a single command
