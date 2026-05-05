@@ -44,6 +44,30 @@ The data model and business logic were designed based on how real CRM systems (l
 
 ---
 
+## Exploratory Data Analysis
+
+This project includes a Jupyter Notebook with exploratory analysis of the sales data, using Matplotlib and Seaborn for visualization.
+
+**Notebook:** `sales_analytics_exploratory_analysis.ipynb`
+
+Charts included:
+- Total revenue by category
+- Top 10 customers by revenue
+- Monthly revenue over time
+- Key insights summary: total revenue, top category, top customer, average ticket## Exploratory Data Analysis
+
+This project includes a Jupyter Notebook with exploratory analysis of the sales data, using Matplotlib and Seaborn for visualization.
+
+**Notebook:** `sales_analytics_exploratory_analysis.ipynb`
+
+Charts included:
+- Total revenue by category
+- Top 10 customers by revenue
+- Monthly revenue over time
+- Key insights summary: total revenue, top category, top customer, average ticket
+
+---
+
 ## Tech Stack
 
 | Layer | Technology |
@@ -56,6 +80,8 @@ The data model and business logic were designed based on how real CRM systems (l
 | Data Analysis | Pandas |
 | Containerization | Docker + Docker Compose |
 | Frontend | HTML, CSS, JavaScript |
+| Visualization | Matplotlib + Seaborn |
+| Notebooks | Jupyter |
 
 ---
 
